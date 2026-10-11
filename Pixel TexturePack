@@ -1,13 +1,13 @@
 {
   "replacement_rules": [
     {
-      "name": "Pixel Texture",
+      "name": "ARENA DIAMOND Texture",
       "replace_ids": [
         7658055825
       ],
       "mode": "cdn",
       "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/Mihty-ideasa/main/1000004000-removebg-preview.png"
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/Mihty-ideasa/main/1000004003-removebg-preview.png"
     },
     {
       "name": "SkyFt",
