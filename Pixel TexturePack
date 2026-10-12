@@ -124,4 +124,24 @@
       "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/Tuturu%20-%20Sound%20Effect%20HD.mp3"
     }
   ]
-}
+} "name": "Shop Icon",
+      "replace_ids": [
+        17619445340
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/Mihty-ideasa/main/1000004042-removebg-preview_1.png"
+    },
+    {
+      "name": "Item background",
+      "replace_ids": [
+        13220167337,
+        13188242420,
+        13220167472,
+        13188153054,
+        13188242287
+      ],
+     "mode": "cdn",
+     "enabled": true,
+   "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/Mihty-ideasa/main/1000004077-removebg-preview.png"
+ }
